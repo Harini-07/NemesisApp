@@ -1,0 +1,1 @@
+web: gunicorn nemesisApp.wsgi --log-file -
